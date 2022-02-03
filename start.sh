@@ -5,7 +5,7 @@ export MYINFO_SIGNATURE_CERT_PUBLIC_CERT=./ssl/staging_myinfo_public_cert.cer
 
 export MYINFO_APP_CLIENT_ID=STG-201842913N-FUNDBOX-BNPL-HIREPURCHASE
 export MYINFO_APP_CLIENT_SECRET=3KzuROgnQ0mjLqrxqsv1qLWuwjxzg0g7
-export MYINFO_APP_REDIRECT_URL=http://139.162.62.236:3001//callback
+export MYINFO_APP_REDIRECT_URL=http://https://strapi-dev-consumer.fundbox.asia:3001/callback
 
 # SANDBOX ENVIRONMENT (no PKI digital signature)
 export AUTH_LEVEL=L0
